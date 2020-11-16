@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    
+    "files.associations": {
+        "**/*.yml": "ansible"
+    },
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+}
