@@ -1,0 +1,17 @@
+# Das ist Git's benutzerspezifische Konfigurationsdatei.
+[user]
+	name = Janosh0815
+	email = pickflorian83@gmail.com
+[init]
+	defaultbranch = master
+[core]
+	editor = code --wait
+	autocrlf = input
+	excludesfile = ~/.gitignore
+[color]
+  branch = auto
+  diff = auto
+  interactive = auto
+  status = auto
+[web]
+  browser = google-chrome
